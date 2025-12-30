@@ -1,0 +1,29 @@
+[
+  {
+    "task_id": 1,
+    "title": "Créer la base de données",
+    "status": "done",
+    "priority": "high",
+    "project": "TaskFlow",
+    "user": "Alice",
+    "created_at": "2024-01-10"
+  },
+  {
+    "task_id": 2,
+    "title": "Concevoir le modèle de données",
+    "status": "in_progress",
+    "priority": "medium",
+    "project": "TaskFlow",
+    "user": "Bob",
+    "created_at": "2024-01-12"
+  },
+  {
+    "task_id": 3,
+    "title": "Créer le pipeline ETL",
+    "status": "todo",
+    "priority": "high",
+    "project": "DataPlatform",
+    "user": "Alice",
+    "created_at": "2024-01-15"
+  }
+]
